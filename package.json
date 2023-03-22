@@ -1,0 +1,14 @@
+{
+  "name": "project-6",
+  "version": "1.0.0",
+  "description": "Calculator Web Application",
+  "main": "Calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aryan Saxena",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
