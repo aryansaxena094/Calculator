@@ -12,7 +12,7 @@ To run this project on your local machine, you need to have Node.js and npm (Nod
 `npm install`
 4. Start the server by running:
 `node app.js`
-5. Open your web browser and go to http://localhost:3000 to access the calculator.
+5. Open your web browser and go to `http://localhost:3000` to access the calculator.
 
 ## Usage
 The calculator has two input fields where the user can enter two numbers. After submitting the form, the server performs the following operations on the numbers:
