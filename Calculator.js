@@ -8,5 +8,5 @@ app.listen(3000, function(){
 });
 
 app.get("/", function(req, res){
-    res.send("<h1>Hello world!</h1>");
+    res.sendFile("/Users/aryansaxena/Desktop/JavaScript Learning/Project 6/index.html");
 })
